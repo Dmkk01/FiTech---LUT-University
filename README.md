@@ -6,3 +6,9 @@ Repository for assignment from the FiTech program at LUT University
   - Exercises: Not Done
   - Learning Diary: Not Done
   - Project: Not Done
+
+- Back End 
+  - Exercises: Not Done
+  - Learning Diary: Not Done
+  - Project: Not Done
+
