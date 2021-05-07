@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Portfolio",
   "main": "index.js",
-  "homepage": "https://DominikPortfolioFiTech.github.io/FiTech---LUT-University",
+  "homepage": "https://dmkk01.github.io/FiTech---LUT-University",
   "dependencies": {
     "async": "^2.6.3",
     "camelcase-keys": "^2.1.0",
