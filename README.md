@@ -1,5 +1,5 @@
 # FiTech - LUT-University
-Repository for assignment from the FiTech program at LUT University
+Repository for assignments from the FiTech program at LUT University
 
 ## Includes:
 - Front End 
