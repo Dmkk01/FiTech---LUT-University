@@ -4,7 +4,7 @@ Repository for assignments from the FiTech program at LUT University
 ## Includes:
 - Front End 
   - Exercises: Done
-  - Learning Diary: Not Done
+  - Learning Diary: Done
   - Project: Not Done
 
 - Back End 
