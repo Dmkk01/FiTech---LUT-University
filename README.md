@@ -8,7 +8,7 @@ Repository for assignments from the FiTech program at LUT University
   - Project: ***Not Done***
 
 - Back End 
-  - Exercises: ***Not Done***
+  - Exercises: ***Done***
   - Learning Diary: ***Not Done***
   - Project: ***Not Done***
 
